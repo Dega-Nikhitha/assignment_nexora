@@ -56,9 +56,22 @@ E:\assignemnt_nexora
 ├── frontend/
 └── README.md
 
+## Setup Instructions
+
+### 1. Install dependencies
+Run the following commands after unzipping:
+```bash
+cd backend
+npm install
+
+cd ../frontend
+npm install
+
+
 ---
 
 ✅ That's it!  
 Now you can continue with the GitHub upload steps I gave earlier - this README will automatically appear on your GitHub project page.  
 
 Would you like me to include your **demo video placeholder** and GitHub repo name in the README before you upload it (so you can just paste and push)?
+
